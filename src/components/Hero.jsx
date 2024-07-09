@@ -42,7 +42,7 @@ const Hero = () => {
         id="cta"
         className="flex flex-col items-center opacity-0 translate-y-20"
       >
-        <a href="#highlights" className="btn">Buy</a>
+        <a href="https://www.apple.com/in/shop/buy-iphone/iphone-15-pro" className="btn">Buy</a>
         <p className="font-normal text-xl">From ₹134900.00*</p>
       </div>
     </section>
